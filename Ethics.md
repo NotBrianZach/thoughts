@@ -34,12 +34,10 @@
 
 ### The Principle of Justice: Treat all individuals fairly and equitably, ensuring that they receive what they are due based on their rights, needs, and contributions.
 
-### existential vs universal quantification
-
 # GPT4 PROMPT: given the previous list of ethical rules, could you design an "ethical dispatch algorithm", or if appropriate, principal or rule of thumb, that selects which one to use based on the situation?
 ## reponse: To design an ethical dispatch algorithm, we can follow these steps:
 
-Assess the situation: Determine the key factors and the individuals involved in the situation. Are there potential harms or benefits? Are there conflicting desires or needs? Is there an unequal distribution of resources or opportunities?
+Assess the situation: Determine the key factors and the individuals involved in the situation. Are there potential harms or benefits? Are there conflicting desires or needs? Is there an unfair distribution of resources or opportunities?
 
 Identify the relevant ethical principles: Based on the assessment, determine which of the ethical principles listed above are most relevant to the situation. For example, if the situation involves potential harm to others, the Principle of Non-Maleficence and the Silver Rule may be relevant. If the situation involves decision-making about resource distribution, the Veil of Ignorance and the Principle of Justice may be applicable.
 
@@ -54,11 +52,11 @@ Reflect and learn: After making the decision, reflect on the process and the out
 This ethical dispatch algorithm is intended to be flexible and adaptable to various situations, as it takes into account multiple ethical principles and encourages thoughtful reflection and decision-making. However, it is essential to remember that ethical decision-making is often complex and nuanced, and there may not always be a single "right" answer. The goal is to make the best possible decision based on the available information and a deep understanding of the ethical principles involved.
 
 
-# parallel stochastic gradient descent - infinitely - the blessing of zen sisyphus
-# most fundamental ethical principles? (graphs?)
-## freedom
-## fairness
-## ?
+# BRAINSTORMING
+most fundamental ethical principles? (graphs?)
+freedom
+fairness
+?
 
 true, false, unknown, unknown unknown, undefined, null, confidence interval, ?
 
