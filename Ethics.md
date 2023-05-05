@@ -86,7 +86,7 @@ Veil of Ignorance: By assuming a position without knowledge of your position, ma
 
 Inertia&Stability: tend to follow a similar pattern of activity as you have in the past
 
-Iron or Steel Rules: Might or evolutionary fitness determine right.
+Iron or Steel Rules: Might or evolutionary fitness determines right.
 
 Silver Rule: Avoid actions that you would not want others to do to you.
 
