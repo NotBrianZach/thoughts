@@ -1,55 +1,86 @@
-# rules:
+"machine super intelligence will be more ethical than humans, because intelligence/planning ability is, far from orthogonal to ethics, almost indistinguishable from it":
 
-## silver rule: do not do unto others as you would not have them do unto you
+# Ethical dispatch algorithm:
 
-## golden rule: do unto others as you would you have them do unto you
+Assess the situation: Identify key factors, individuals involved, potential harms/benefits, conflicting desires/needs, and unfair distributions of resources or opportunities.
 
-## kantain categorical imperatives:
+Identify relevant ethical principles: Determine which ethical principles apply based on the assessment (e.g., Silver Rule, Veil of Ignorance, Principle of Non-Maleficence, etc.).
 
-### first: Act only according to that maxim whereby you can at the same time will that it should become a universal law.
+Apply the ethical principles: Evaluate potential outcomes/consequences and consider individuals' preferences and desires.
 
-### second: Act in such a way that you treat aware agents, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end.
+Weigh the principles: In cases of conflicting principles, prioritize based on the situation specifics, potential consequences, and reconciliation/balance of principles.
 
-### third: will of every rational being as a universally legislating will:  Each subject must through his own use of reason will maxims which have the form of universality, but do not impinge on the freedom of others: thus each subject must will maxims that could be universally self-legislated
+Make a decision: Choose the action that best aligns with prioritized principles, justifying the decision based on ethical principles considered.
 
-### fourth: Act according to maxims of a universally legislating member of a hypothetical kingdom of ends.
+Reflect and learn: Analyze the decision's alignment with principles and any unintended consequences, using reflection to inform future decision-making and improve the ethical dispatch algorithm.
 
-## iron rule: might makes right; steel rule: evolutionary fitness makes right
+This algorithm is flexible, adaptable, and encourages thoughtful reflection and decision-making, while acknowledging the complexity and nuance of ethical decision-making.
 
-## gpt4 extension:
+# Ethical principles
 
-### The "Platinum" Rule: Treat others as they would like to be treated. This rule takes the Golden Rule a step further by considering the preferences and desires of others, rather than assuming that what you would like is the same as what others would like.
+Inertia&Stability: tend to follow a similar pattern of activity as you have in the past
 
-### The Veil of Ignorance (Rawls' Theory of Justice): When making decisions about the distribution of resources and opportunities in society, imagine that you don't know your own position in society (your race, gender, social class, etc.). This thought experiment is intended to encourage fairness and impartiality in decision-making.
+Silver Rule: Avoid actions that you would not want others to do to you.
 
-### The Principle of Utility (Utilitarianism): Act in a way that maximizes overall happiness or minimizes overall suffering for the greatest number of people. This principle, often associated with Jeremy Bentham and John Stuart Mill, focuses on the consequences of actions and aims to achieve the best outcome for all involved.
+Golden Rule: Treat others as you wish to be treated.
 
-### Virtue Ethics: Focus on cultivating good character traits (virtues) and avoiding bad ones (vices) as a way to live an ethical life. This approach, often associated with Aristotle, emphasizes personal development and moral character over following specific rules or principles.
+Kantian Imperatives:
 
-### The Principle of Non-Maleficence: "First, do no harm." This principle is central to many medical and ethical codes and emphasizes the importance of avoiding harm to others, even if it means not helping them.
+a. Act on universally applicable maxims.
 
-### The Principle of Autonomy: Respect the autonomy and decision-making capacity of individuals, allowing them to make their own choices about their lives, as long as they do not harm others.
+b. Treat conscious beings as ends, not means.
 
-### The Principle of Beneficence: Actively promote the well-being of others and help them achieve their goals, within reasonable limits.
+c. Self-legislate universally acceptable maxims.
 
-### The Principle of Justice: Treat all individuals fairly and equitably, ensuring that they receive what they are due based on their rights, needs, and contributions.
+d. Act as a member of a hypothetical kingdom of ends.
 
-# GPT4 PROMPT: given the previous list of ethical rules, could you design an "ethical dispatch algorithm", or if appropriate, principal or rule of thumb, that selects which one to use based on the situation?
-## reponse: To design an ethical dispatch algorithm, we can follow these steps:
+Iron & Steel Rules: Might and evolutionary fitness determine right.
 
-Assess the situation: Determine the key factors and the individuals involved in the situation. Are there potential harms or benefits? Are there conflicting desires or needs? Is there an unfair distribution of resources or opportunities?
+Curiosity: Knowledge, understanding, and art have intrinsic moral value.
 
-Identify the relevant ethical principles: Based on the assessment, determine which of the ethical principles listed above are most relevant to the situation. For example, if the situation involves potential harm to others, the Principle of Non-Maleficence and the Silver Rule may be relevant. If the situation involves decision-making about resource distribution, the Veil of Ignorance and the Principle of Justice may be applicable.
+Platinum Rule: Treat others as they wish to be treated.
 
-Apply the ethical principles: Apply the relevant ethical principles to the situation, considering how each principle might guide your actions. Evaluate the potential outcomes and consequences of following each principle, bearing in mind the preferences and desires of the individuals involved.
+Veil of Ignorance: Make impartial societal decisions without knowledge of your position.
 
-Weigh the principles: Some ethical principles may be in conflict with one another. In these cases, weigh the importance of each principle based on the specifics of the situation. Consider the potential consequences of prioritizing one principle over another, and think about how the principles can be reconciled or balanced.
+Principle of Utility: Maximize overall happiness or minimize suffering for the majority.
 
-Make a decision: Based on your analysis of the situation and the application of the relevant ethical principles, make a decision that best aligns with the principles you have prioritized. Be prepared to justify your decision and explain how it adheres to the ethical principles you have considered.
+Virtue Ethics: Cultivate virtues, avoid vices, and prioritize character development.
+1. Virtues:
+a. Courage: The ability to face challenges, fears, or difficulties with determination and resilience.
+b. Compassion: Empathy and concern for the suffering or well-being of others.
+c. Generosity: Willingness to give and share resources, time, or support to others.
+d. Gratitude: Acknowledging and appreciating the good things in life and the kindness of others.
+e. Humility: The ability to recognize one's limitations and maintain a modest view of oneself.
+f. Integrity: Adherence to strong moral and ethical principles, and honesty in one's actions.
+g. Justice: Fairness, impartiality, and treating others equitably.
+h. Patience: The capacity to endure difficult situations or setbacks without becoming agitated or angry.
+i. Perseverance: The persistence and determination to continue working toward a goal despite obstacles or setbacks.
+j. Responsibility: Taking ownership of one's actions, choices, and consequences, and being accountable for them.
+k. Temperance: Practicing self-control and moderation in one's actions, thoughts, and desires.
+l. Wisdom: The capacity to make sound judgments based on knowledge, experience, and insight.
+2. Vices
+a. Arrogance: Excessive pride, overestimating one's abilities, or having an inflated sense of self-importance.
+b. Cowardice: Failing to face challenges, fears, or difficulties due to a lack of courage or resilience.
+c. Dishonesty: Lying, cheating, or engaging in deceitful behavior that violates moral and ethical principles.
+d. Ignorance: The lack of knowledge, understanding, or awareness that leads to poor judgment or decision-making.
+e. Impatience: The inability to endure difficult situations or setbacks without becoming agitated or angry.
+f. Ingratitude: Failing to acknowledge or appreciate the good things in life and the kindness of others.
+g. Injustice: Unfairness, bias, or treating others inequitably.
+h. Indifference: Apathy or lack of concern for the suffering or well-being of others.
+i. Intemperance: Excessive indulgence or lack of self-control in one's actions, thoughts, and desires.
+j. Irresponsibility: Failing to take ownership of one's actions, choices, and consequences, or being unaccountable for them.
+k. Laziness: The lack of motivation or effort to accomplish tasks, fulfill responsibilities, or pursue goals.
+l. Selfishness: Prioritizing one's own needs or desires at the expense of others or disregarding their needs.
 
-Reflect and learn: After making the decision, reflect on the process and the outcomes. Did the decision align with the ethical principles you prioritized? Were there any unintended consequences? Use this reflection to inform your future decision-making and improve your ethical dispatch algorithm.
 
-This ethical dispatch algorithm is intended to be flexible and adaptable to various situations, as it takes into account multiple ethical principles and encourages thoughtful reflection and decision-making. However, it is essential to remember that ethical decision-making is often complex and nuanced, and there may not always be a single "right" answer. The goal is to make the best possible decision based on the available information and a deep understanding of the ethical principles involved.
+Non-Maleficence: Avoid causing harm to others.
+
+Autonomy: Respect individuals' decision-making capacities.
+
+Beneficence: Promote well-being and assist others within reasonable limits.
+
+Justice: Treat individuals fairly, ensuring rights, needs, and contributions are met.
+
 
 
 # BRAINSTORMING
