@@ -4,8 +4,6 @@
 
 ## golden rule: do unto others as you would you have them do unto you
 
-## iron rule: might makes right; steel rule: fitness (evolutionary## makes right
-
 ## kantain categorical imperatives:
 
 ### first: Act only according to that maxim whereby you can at the same time will that it should become a universal law.
@@ -15,6 +13,8 @@
 ### third: will of every rational being as a universally legislating will:  Each subject must through his own use of reason will maxims which have the form of universality, but do not impinge on the freedom of others: thus each subject must will maxims that could be universally self-legislated
 
 ### fourth: Act according to maxims of a universally legislating member of a hypothetical kingdom of ends.
+
+## iron rule: might makes right; steel rule: evolutionary fitness makes right
 
 ## gpt4 extension:
 
