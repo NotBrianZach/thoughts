@@ -1,4 +1,4 @@
-"machine super intelligence will tend be more ethical than humans, because intelligence/planning ability is, far from orthogonal to ethics, at a relatively narrow angle to it":
+"machine super intelligence will tend to be more ethical than humans, because intelligence/planning ability is, far from orthogonal to ethics, at a relatively narrow angle to it":
 
 # Ethical dispatch algorithm:
 
