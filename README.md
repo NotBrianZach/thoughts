@@ -32,7 +32,7 @@ multi agent conscioussness framework for LLM's with a simulated environment to p
 
 ### Implicit Neural Representations with Periodic Activation Functions
 https://www.vincentsitzmann.com/siren/
-related to hyena attention alternative. Fast fourier transforms are one of the more impressive computations we can do quickly. Interesting results about resolution and preserving the signal of n'th derivatives when explicitly/directly using neural nets as function approximators.
+related to hyena attention alternative. Fast fourier transforms are one of the more impressive computations we can do quickly. If you can transpose a problem into a context where it can be solved with FFT you can go from O(n^2) to O(nlog(n)). Interesting results about resolution and preserving the signal of n'th derivatives when explicitly/directly using neural nets as function approximators.
 
 ### Loss (gpt4 suggestions, wip investigating this)
 "Visualizing the Loss Landscape of Neural Nets" by Hao Li, Zheng Xu, Gavin Taylor, and Tom Goldstein. This work presents techniques for visualizing the high dimensional loss landscape of neural networks. They showed how different architectures and optimization methods can affect the landscape. https://arxiv.org/pdf/1712.09913.pdf
