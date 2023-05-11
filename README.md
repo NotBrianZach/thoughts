@@ -24,7 +24,7 @@ wip, tries to show how thinking about significant digits lead naturally into dee
 
 ### automated interpretability
 https://github.com/openai/automated-interpretability
-they apply automation to the problem of scaling an interpretability technique to all the neurons in a large language model
+they use an LLM to try to explain what all the neurons in a smaller LLM do via hypthesis testing, and propose several paths towards better results
 
 ### generative agents
 https://arxiv.org/abs/2304.03442
