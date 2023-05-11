@@ -22,19 +22,19 @@ wip, tries to show how thinking about significant digits lead naturally into dee
 
 # Papers of personal interest
 
-## automated interpretability
+### automated interpretability
 https://github.com/openai/automated-interpretability
 they apply automation to the problem of scaling an interpretability technique to all the neurons in a large language model
 
-## generative agents
+### generative agents
 https://arxiv.org/abs/2304.03442
 multi agent conscioussness framework for LLM's with a simulated environment to provide grounding & and an episodic memory implementation
 
-## Implicit Neural Representations with Periodic Activation Functions
+### Implicit Neural Representations with Periodic Activation Functions
 https://www.vincentsitzmann.com/siren/
 related to hyena attention alternative. Fast fourier transforms are one of the more impressive computations we can do quickly. Interesting results about resolution and preserving the signal of n'th derivatives when explicitly/directly using neural nets as function approximators.
 
-## Loss (gpt4 suggestions, wip investigating this)
+### Loss (gpt4 suggestions, wip investigating this)
 "Visualizing the Loss Landscape of Neural Nets" by Hao Li, Zheng Xu, Gavin Taylor, and Tom Goldstein. This work presents techniques for visualizing the high dimensional loss landscape of neural networks. They showed how different architectures and optimization methods can affect the landscape. https://arxiv.org/pdf/1712.09913.pdf
 
 "The Loss Surfaces of Multilayer Networks" by Anna Choromanska, Mikael Henaff, Michael Mathieu, Gerard Ben Arous, and Yann LeCun. This paper provides an analysis of the loss surfaces of multilayer networks, including deep learning models.
