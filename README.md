@@ -2,6 +2,8 @@
 
 currently text dumps of thoughts; maybe in the future more structure will be added
 
+bayes is dead, [long live the regularized saddle free newton method for gradient descent](https://amath.colorado.edu/faculty/becker/assets/docs/CooperSimpson_Summer2022_MAthesis.pdf), the taosim for the 21st century
+
 # [Alignment.md](https://github.com/NotBrianZach/thoughts/blob/main/alignment.md)
 
 gpt3 3 sentence summary:
@@ -39,7 +41,7 @@ related to hyena attention alternative. Fast fourier transforms are one of the m
 
 "The Loss Surfaces of Multilayer Networks" by Anna Choromanska, Mikael Henaff, Michael Mathieu, Gerard Ben Arous, and Yann LeCun. This paper provides an analysis of the loss surfaces of multilayer networks, including deep learning models.
 
-"Identifying and attacking the saddle point problem in high-dimensional non-convex optimization" by Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, and Yoshua Bengio. This paper discusses the role of saddle points in the optimization of deep learning models, arguing that they are more problematic than local minima.
+"Identifying and attacking the saddle point problem in high-dimensional non-convex optimization" by Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, and Yoshua Bengio. This paper discusses the role of saddle points in the optimization of deep learning models, arguing that they are more problematic than local minima. (recent update https://amath.colorado.edu/faculty/becker/assets/docs/CooperSimpson_Summer2022_MAthesis.pdf)
 
 "Deep Residual Learning for Image Recognition" by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Though the primary focus of this paper is the introduction of ResNet, an influential deep learning architecture, it also discusses how residual connections can help optimization by making the loss surface smoother.
 
