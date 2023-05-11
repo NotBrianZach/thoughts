@@ -17,7 +17,7 @@ Machine super intelligence, due to its advanced intelligence and planning abilit
 
 # theoryOfMind.md
 
-wip, tries to show how significant digits lead naturally into deep discussions and intuition about measurement and probability
+wip, tries to show how thinking about significant digits lead naturally into deep discussions and intuition about measurement and probability
 
 
 # Papers of personal interest
