@@ -1,12 +1,12 @@
 # thoughts
 
-currently text dumps of thoughts; maybe in the futre more structure will be added
+currently text dumps of thoughts; maybe in the future more structure will be added
 
 # Alignment.md
 
 gpt3 3 sentence summary:
 
-The text explores perspectives on alignment, ethics, and intelligence, discussing their interplay in areas such as education, society, and superintelligent AI. The author challenges the concept of orthogonality and highlights the dangers of alignment, emphasizing the need for caution in developing highly intelligent systems. Despite the risks, the author recognizes the value of studying alignment to gain insight into ourselves and future intelligences.
+The text explores perspectives on alignment, ethics, and intelligence, discussing their interplay in areas such as education, society, and superintelligent AI. The author challenges the concept of orthogonality and highlights the dangers of alignment, emphasizing the need for caution in trying to align highly intelligent systems. Despite the risks, the author recognizes the value of studying alignment to gain insight into ourselves and future intelligences.
 
 
 # Ethics.md
@@ -18,3 +18,32 @@ Machine super intelligence, due to its advanced intelligence and planning abilit
 # theoryOfMind.md
 
 wip, tries to show how significant digits lead naturally into deep discussions and intuition about measurement and probability
+
+
+# Papers of personal interest
+
+## automated interpretability
+https://github.com/openai/automated-interpretability
+they apply automation to the problem of scaling an interpretability technique to all the neurons in a large language model
+
+## generative agents
+https://arxiv.org/abs/2304.03442
+multi agent conscioussness framework for LLM's with a simulated environment to provide grounding & and an episodic memory implementation
+
+## Implicit Neural Representations with Periodic Activation Functions
+https://www.vincentsitzmann.com/siren/
+related to hyena attention alternative. Fast fourier transforms are one of the more impressive computations we can do quickly. Interesting results about resolution and preserving the signal of n'th derivatives when explicitly/directly using neural nets as function approximators.
+
+## Loss (gpt4 suggestions, wip investigating this)
+"Visualizing the Loss Landscape of Neural Nets" by Hao Li, Zheng Xu, Gavin Taylor, and Tom Goldstein. This work presents techniques for visualizing the high dimensional loss landscape of neural networks. They showed how different architectures and optimization methods can affect the landscape. https://arxiv.org/pdf/1712.09913.pdf
+
+"The Loss Surfaces of Multilayer Networks" by Anna Choromanska, Mikael Henaff, Michael Mathieu, Gerard Ben Arous, and Yann LeCun. This paper provides an analysis of the loss surfaces of multilayer networks, including deep learning models.
+
+"Identifying and attacking the saddle point problem in high-dimensional non-convex optimization" by Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, and Yoshua Bengio. This paper discusses the role of saddle points in the optimization of deep learning models, arguing that they are more problematic than local minima.
+
+"Deep Residual Learning for Image Recognition" by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Though the primary focus of this paper is the introduction of ResNet, an influential deep learning architecture, it also discusses how residual connections can help optimization by making the loss surface smoother.
+
+
+
+
+
