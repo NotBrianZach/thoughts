@@ -1,7 +1,5 @@
 # thoughts
 
-currently text dumps of thoughts; maybe in the future more structure will be added
-
 bayes is dead, [long live the regularized saddle free newton method for gradient descent](https://amath.colorado.edu/faculty/becker/assets/docs/CooperSimpson_Summer2022_MAthesis.pdf), the taosim for the 21st century
 
 # [Alignment.md](https://github.com/NotBrianZach/thoughts/blob/main/alignment.md)
