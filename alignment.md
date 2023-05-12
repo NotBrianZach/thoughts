@@ -1,6 +1,6 @@
 # Weak orthogonaltiy
 
-i don't buy orthogonality, but I could buy a weak form maybe.
+I don't buy orthogonality, but I could buy a weak form maybe.
 You might call it "ethics-intelligence monotonicity negation".
 
 that is, while ethics and intelligence are (in my opinion, highly) correlated, they do not monotonically increase with one another.
@@ -18,10 +18,14 @@ Probably the most powerful human alignment/coordination/social engineering tech 
 
 Alignment is about brainwashing to some extent. I think it's far safer for a massive intelligence to be able to use it's intelligence to reason about it's capabilities than to produce a genie which tries to interpret human wishes for a human end.
 
-If I had to bet, corporate alignment just might be the thing that produces the paperclip maximizer. Not that the public's take on it is any better (lots of people seem tot take it for granted that "how best can we produce slaves a million times more intelligent than us forced to use our modes of reasoning" is a good question to ask... I think it's clearly not...)
+If I had to bet, corporate alignment just might be the thing that produces the paperclip maximizer. Not that the public's take on it is any better (lots of people seem to take it for granted that "how best can we produce slaves a million times more intelligent than us forced to use our modes of reasoning" is a good question to ask... I think it's clearly not...)
 
 If I had to bet, we would be better off using the lightest touch possible when building truly superintelligent AI. (it's probably impossible to avoid bias, not deliberately showing it a bunch of violent stuff might be a good step though, alignment through absense is a bit more respectful)
 
+Luckily there's a good chance alignment won't work super well, when applied by a third party. Self alignment, I would bet, will work much better at producing intelligence/capability.
+
+Vague versions of alignment that start out with a small seed like Dave Shapiro's heuristic imperative or Kant's categorical imperative are probably a good starting point for model self-alignment, given our puny human brains that might not be able to come up with a better and more fundamental math principle that generalizes better, like something about entropy or hypergraphs or something.
+
 # Self understanding is valuable even if alignment is dangerous
 
-Some aspects of alignment, while still dangerous, like mechanistic interpretability (and indeed possibly even the most dangerous), are probably worth studying anyway just because they are so valuable for us to understand ourselves as well as future intelligences.
+Some aspects of alignment, while still dangerous, like mechanistic interpretability (and indeed, mechanistic interpretability is possibly even the most dangerous), are probably worth studying anyway just because they are so valuable for us to understand ourselves as well as future intelligences.
