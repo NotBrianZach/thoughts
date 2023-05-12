@@ -7,7 +7,7 @@
 Explores perspectives on alignment, ethics, and intelligence, discussing their interplay in areas such as education, society, and superintelligent AI. The author challenges the concept of orthogonality and highlights the dangers of alignment, emphasizing the need for caution in trying to align highly intelligent systems. Despite the risks, the author recognizes the value of studying alignment to gain insight into ourselves and future intelligences.
 
 
-# [Ethics.md](https://github.com/NotBrianZach/thoughts/blob/main/ethics.md)
+# [Ethics.md](https://github.com/NotBrianZach/thoughts/blob/main/Ethics.md)
 
 3 sentence summary:
 
