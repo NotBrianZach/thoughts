@@ -35,7 +35,6 @@ related to hyena attention alternative. Fast fourier transforms are one of the m
 
 ### Loss (wip investigating this)
 ["Visualizing the Loss Landscape of Neural Nets"](https://arxiv.org/pdf/1712.09913.pdf) by Hao Li, Zheng Xu, Gavin Taylor, and Tom Goldstein. This work presents techniques for visualizing the high dimensional loss landscape of neural networks. They showed how different architectures and optimization methods can affect the landscape.
->>>>>>> origin/main
 
 ["The Loss Surfaces of Multilayer Networks"](https://arxiv.org/abs/1412.0233) by Anna Choromanska, Mikael Henaff, Michael Mathieu, Gerard Ben Arous, and Yann LeCun. This paper provides an analysis of the loss surfaces of multilayer networks, relating neural network structure to that of solid state physics models of a class of materials called spin glasses. After reading that, and also lattice cryptography being the basis for quantum hard cryptosystems, I am just wondering why you can't build a transistor equivalent out of a crystalline lattice.
 
