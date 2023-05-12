@@ -7,9 +7,9 @@ Consider a ruler measuring some distance, on which the smallest marking is a cen
 
 The true purpose of significant digits is to convey an estimate of the order of magnitude of measurement error.
 
-Scientific notation might represent this as 2.600 * 10^2 millimters or 2.600E2
+Scientific notation might represent a number as 2.600 * 10^2 millimters or 2.600E2 for example.
 
-You (or maybe more realistically 10 seperate people since you will probably mentally anchor to your first measurement making further measurements correlated) measure that distance 10 times, and each time come up with a slightly different distance, clustered around the true distance with some variance that corresponds to some error bound.
+You (or maybe more realistically 10 seperate people since you will probably mentally anchor to your first measurement making further measurements correlated) measure that distance 10 times, and each time come up with a slightly different distance, clustered around the true distance with some variance that corresponds to some error bound (given your observations are independent and normally distributed).
 
 When doing calculations with scientific formulas, or computations with a computer model, you have to propagate the error through the calculations.
 
