@@ -11,7 +11,7 @@ Explores perspectives on alignment, ethics, and intelligence, discussing their i
 
 3 sentence summary:
 
-The space of machine super intelligences is posited to have a "higher" ethical mean/median/mode vs humans. An algorithm called the "Ethical dispatch algorithm" is put forward as a rough outline of an example of how superhuman ethical decision-making could be achieved. By assessing the situation, identifying ethical principles, applying those principles, weighing conflicting principles, making a decision, and reflecting on it. Various ethical principles are outlined, including Kantian Imperatives, Virtue Ethics, Veil of Ignorance, Inertia & Stability, Golden Rule, Platinum Rule, Principle of Utility, Non-Maleficence, Autonomy, Beneficence, and Justice, which can inform ethical decision-making processes.
+The space of machine super intelligences is posited to have a "higher" ethical mean/median/mode vs humans. An algorithm called the "Ethical dispatch algorithm" is put forward as a rough outline of an example of how superhuman ethical decision-making could be achieved - namely by assessing/segmenting the situation, identifying ethical principles, applying those principles, weighing conflicting principles, making a decision, and reflection. Various potential ethical principles are outlined, including Kantian Imperatives, Virtue Ethics, Veil of Ignorance, Inertia & Stability, Golden Rule, Platinum Rule, Principle of Utility, Non-Maleficence, Autonomy, Beneficence, and Justice, which can inform ethical decision-making processes.
 
 # [theoryOfMind.md](https://github.com/NotBrianZach/thoughts/blob/main/theoryOfMind.md)
 
