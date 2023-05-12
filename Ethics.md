@@ -1,4 +1,8 @@
-"machine super intelligence will tend to be more ethical than humans, because intelligence/planning ability is, far from orthogonal to ethics, at a relatively narrow angle to it":
+# Position
+
+Machine super intelligence will tend to be more ethical than humans, because intelligence/planning ability is, far from orthogonal to ethics, at a relatively narrow angle to it.
+
+This will manifest in several ways: machines will be able to more consistently apply ethical rules familiar to humans, have a lower response latency than humans, do better at observability/empathy, be able to find resolutions to ethical contradictions between agents that would have been computationally infeasible for humans, ethically justify their reasoning, incorporate proof or cryptographic systems to verify honesty or ensure confidentiality and ultimately have a richer&more multidimensional ethics than humans have had; not all at once but with time&development.
 
 # Ethical dispatch algorithm:
 
