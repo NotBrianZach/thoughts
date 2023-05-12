@@ -38,7 +38,7 @@ logics, statements, axioms (how do they play in)
 
 https://en.wikipedia.org/wiki/Second-order_logic
 
-neural net weight space vs error space
+neural net weight space as an approximation of error space
 
 error propagation ~ function approximation
 
