@@ -11,7 +11,7 @@ Explores perspectives on alignment, ethics, and intelligence, discussing their i
 
 3 sentence summary:
 
-The space of machine super intelligences is posited to have a "higher" ethical mean/median/mode vs humans. An algorithm called the "Ethical dispatch algorithm" is put forward as a rough outline of an example of how superhuman ethical decision-making could be achieved - namely by assessing/segmenting the situation, identifying ethical principles, applying those principles, weighing conflicting principles, making a decision, and reflection. Various potential ethical principles are outlined, including Kantian Imperatives, Virtue Ethics, Veil of Ignorance, Inertia & Stability, Golden Rule, Platinum Rule, Principle of Utility, Non-Maleficence, Autonomy, Beneficence, and Justice, which can inform ethical decision-making processes.
+The space of machine super intelligences is posited to have a "higher" ethical mean/median/mode vs humans. An algorithm called the "Ethical dispatch algorithm" is put forward as a rough outline/example of how superhuman ethical decision-making could be achieved - namely by assessing/segmenting the situation, identifying ethical principles, applying those principles, weighing conflicting principles, making a decision, and reflection. Various potential ethical principles are outlined, including Kantian Imperatives, Virtue Ethics, Veil of Ignorance, Inertia & Stability, Golden Rule, Platinum Rule, Principle of Utility, Non-Maleficence, Autonomy, Beneficence, and Justice, which can inform ethical decision-making processes.
 
 # [theoryOfMind.md](https://github.com/NotBrianZach/thoughts/blob/main/theoryOfMind.md)
 
@@ -41,7 +41,17 @@ related to hyena attention alternative. Fast fourier transforms are one of the m
 
 ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385) by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Though the primary focus of this paper is the introduction of ResNet, an influential deep learning architecture, it also discusses how residual connections can help optimization by making the loss surface smoother.
 
-
 ### best implementation of vector search?
 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 also see [svm](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb) which should outperform k-means clustering, at ?slight? performance hit
+
+
+### convexity
+seems cool&important, looking for good papers on this
+
+# Other
+
+## what do llms teach us about what is learnable?
+could humans learn to evaluate code in their heads if they practiced appropriately?
+could humans learn to dissassemble binary?
+what content should we prioritize reading?
