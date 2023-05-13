@@ -41,3 +41,7 @@ related to hyena attention alternative. Fast fourier transforms are one of the m
 
 ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385) by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Though the primary focus of this paper is the introduction of ResNet, an influential deep learning architecture, it also discusses how residual connections can help optimization by making the loss surface smoother.
 
+
+### best implementation of vector search?
+[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+also see [svm](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb) which should outperform k-means clustering, at ?slight? performance hit
