@@ -51,7 +51,9 @@ seems cool&important, looking for good papers on this
 
 # Other
 
+
 ## what do llms teach us about what is learnable?
 could humans learn to evaluate code in their heads if they practiced appropriately?
 could humans learn to dissassemble binary?
 what content should we prioritize reading?
+### [scope class](https://github.com/NotBrianZach/thoughts/blob/main/scopeClass.md)
