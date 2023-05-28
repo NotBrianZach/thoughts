@@ -110,6 +110,12 @@ Beneficence: Promote well-being and assist others within reasonable limits.
 
 Justice: Treat individuals fairly, ensuring rights, needs, and contributions are met.
 
+# Conversation
+
+Using a method like tree of thoughts, LLM's will be able to produce multiple responses at every step in a conversation and agree on a an appropriate scoring (aka distance) metric. Possibly relevant algorithms include flood fill, bfs, dfs.
+
+LLM will, for the most part, have conversational graphs instead of dialogues for any conversation worthy of the resources that doesn't face time or energy constraints.
+
 
 # BRAINSTORMING
 most fundamental ethical principles? (graphs?)
