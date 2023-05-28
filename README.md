@@ -32,6 +32,10 @@ multi agent conscioussness framework for LLM's with a simulated environment to p
 https://www.vincentsitzmann.com/siren/
 related to hyena attention alternative. Fast fourier transforms are one of the more impressive computations we can do quickly. If you can transpose a problem into a context where it can be solved with FFT you can go from O(n^2) to O(nlog(n)). Interesting results about resolution and preserving the signal of n'th derivatives when explicitly/directly using neural nets as function approximators.
 
+### Symbol tuning
+in theory should fix llm reasoning flaw with things like name switching (alpha reduction), something to look for in training pipeline maybe
+https://arxiv.org/abs/2305.08298
+
 ### loss (wip investigating this)
 ["Visualizing the Loss Landscape of Neural Nets"](https://arxiv.org/pdf/1712.09913.pdf) by Hao Li, Zheng Xu, Gavin Taylor, and Tom Goldstein. This work presents techniques for visualizing the high dimensional loss landscape of neural networks. They showed how different architectures and optimization methods can affect the landscape.
 
@@ -44,6 +48,7 @@ related to hyena attention alternative. Fast fourier transforms are one of the m
 ### best implementation of vector search?
 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 also see [svm](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb) which should outperform k-means clustering, at ?slight? performance hit
+
 
 
 ### convexity
