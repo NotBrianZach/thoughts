@@ -36,6 +36,11 @@ related to hyena attention alternative. Fast fourier transforms are one of the m
 in theory should fix llm reasoning flaw with things like name switching (alpha reduction), something to look for in training pipeline maybe
 https://arxiv.org/abs/2305.08298
 
+### Remember
+why can't humans store memories in b trees? How are human memories ordered? is time a natural primary key? It doesn't seem like it.
+Perhaps how we remember things is one the primary ways in which our biology constrains our mental paths through life.
+https://arxiv.org/abs/2105.14039
+
 ### loss (wip investigating this)
 ["Visualizing the Loss Landscape of Neural Nets"](https://arxiv.org/pdf/1712.09913.pdf) by Hao Li, Zheng Xu, Gavin Taylor, and Tom Goldstein. This work presents techniques for visualizing the high dimensional loss landscape of neural networks. They showed how different architectures and optimization methods can affect the landscape.
 
