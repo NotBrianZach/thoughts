@@ -5,8 +5,8 @@
 # potential future projects
 
 - [bza](https://github.com/NotBrianZach/bza) llm read along repl (WIP)
-- [slay the sql](https://github.com/NotBrianZach/SlayTheSQL) literally just a fork of a (pretty cool, check it out) existing slay the spire clone at this point,
-  I think it would be cool to have an sql based card game though. or maybe an sql version of the game "counting kingdom"
+- [slay the sql](https://github.com/NotBrianZach/SlayTheSQL) literally just a fork of a (pretty cool, check it out) existing slay the spire clone, hypoagnia, at this point,
+  I think it would be cool to have an sql based card game though. or maybe an sql version of the game "counting kingdom".
 
 # thoughts
 
