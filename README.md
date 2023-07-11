@@ -1,3 +1,13 @@
+# my publicly available software of good enough quality
+
+- https://github.com/NotBrianZach/postgres-sql-migrate/
+
+# potential future projects
+
+- [bza](https://github.com/NotBrianZach/bza) llm read along repl (WIP)
+- [slay the sql](https://github.com/NotBrianZach/SlayTheSQL) literally just a fork of a (pretty cool, check it out) existing slay the spire clone at this point,
+  I think it would be cool to have an sql based card game though. or maybe an sql version of the game "counting kingdom"
+
 # thoughts
 
 # [Alignment.md](https://github.com/NotBrianZach/thoughts/blob/main/alignment.md)
@@ -67,3 +77,9 @@ could humans learn to evaluate code in their heads if they practiced appropriate
 could humans learn to dissassemble binary?
 what content should we prioritize reading?
 ### [scope class](https://github.com/NotBrianZach/thoughts/blob/main/scopeClass.md)
+
+
+# Stuff I intend turn into posters/tshirts/coffee mugs
+
+https://justinjaffray.com/joins-13-ways/?a=b&ref=upstract.com
+https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/blob/main/The-Art-of-Linear-Algebra.pdf
