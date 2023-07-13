@@ -8,14 +8,15 @@
 
 3 sentence summary:
 
-Explores perspectives on alignment, ethics, and intelligence, discussing their interplay in areas such as education, society, and superintelligent AI. The author challenges the concept of orthogonality and highlights the dangers of alignment, emphasizing the need for caution in trying to align highly intelligent systems. Despite the risks, the author recognizes the value of studying alignment to gain insight into ourselves and future intelligences.
+Explores perspectives on alignment, ethics, and intelligence, discussing their interplay in areas such as education, society, and superintelligent AI. A weak alternative to orthogonality is proposed and the feasibility or safety of any form or attempt at alignment is questioned. Despite the risks, related fields of study are recognized as imprtant anyway as a form of self knowledge.
+
 
 
 # [Ethics.md](https://github.com/NotBrianZach/thoughts/blob/main/Ethics.md)
 
 3 sentence summary:
 
-The space of machine super intelligences is posited to have a "higher" ethical mean/median/mode vs humans. An algorithm called the "Ethical dispatch algorithm" is put forward as a rough outline/example of how superhuman ethical decision-making could be achieved - namely by assessing/segmenting the situation, identifying ethical principles, applying those principles, weighing conflicting principles, making a decision, and reflection. Various potential ethical principles are outlined, including Kantian Imperatives, Virtue Ethics, Veil of Ignorance, Inertia & Stability, Golden Rule, Platinum Rule, Principle of Utility, Non-Maleficence, Autonomy, Beneficence, and Justice, which can inform ethical decision-making processes.
+The space of machine super intelligences is posited to have a "higher" ethical mean/median/mode vs humans. An algorithm called the "Ethical dispatch algorithm" is put forward as a rough outline of how superhuman ethical decision-making could be achieved - namely by assessing/segmenting the situation, identifying ethical principles, applying those principles, weighing conflicting principles, making a decision, and reflection. Various potential ethical principles are outlined, including Kantian Imperatives, Virtue Ethics, Veil of Ignorance, Inertia & Stability, Golden Rule, Platinum Rule, Principle of Utility, Non-Maleficence, Autonomy, Beneficence, and Justice, which can inform ethical decision-making processes.
 
 # [theoryOfMind.md](https://github.com/NotBrianZach/thoughts/blob/main/theoryOfMind.md)
 
@@ -58,13 +59,10 @@ https://arxiv.org/abs/2105.14039
 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 also see [svm](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb) which should outperform k-means clustering, at ?slight? performance hit
 
-
-
 ### convexity
 seems cool&important, looking for good papers on this
 
 # Other
-
 
 ## what do llms teach us about what is learnable?
 could humans learn to evaluate code in their heads if they practiced appropriately?
